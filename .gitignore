@@ -1,0 +1,16 @@
+# Ignore virtual environment folders
+agent/
+.venv/
+venv/
+env/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE and OS specific
+.vscode/
+.DS_Store
