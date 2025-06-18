@@ -10,7 +10,10 @@ env/
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
-
+*.pyc
 # IDE and OS specific
 .vscode/
 .DS_Store
+
+.env
+.aws/
